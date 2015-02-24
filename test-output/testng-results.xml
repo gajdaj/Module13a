@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19803" started-at="2015-02-24T18:41:14Z" finished-at="2015-02-24T18:41:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19803" started-at="2015-02-24T18:41:14Z" finished-at="2015-02-24T18:41:34Z">
+      <class name="facebook.FaceBookTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:facebook.FaceBookTest@4a1c5fd5]" name="before" is-config="true" duration-ms="2157" started-at="2015-02-24T19:41:14Z" finished-at="2015-02-24T19:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="testFaceBook()[pri:0, instance:facebook.FaceBookTest@4a1c5fd5]" name="testFaceBook" duration-ms="16453" started-at="2015-02-24T19:41:16Z" finished-at="2015-02-24T19:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFaceBook -->
+        <test-method status="PASS" signature="after()[pri:0, instance:facebook.FaceBookTest@4a1c5fd5]" name="after" is-config="true" duration-ms="1152" started-at="2015-02-24T19:41:32Z" finished-at="2015-02-24T19:41:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after -->
+      </class> <!-- facebook.FaceBookTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
