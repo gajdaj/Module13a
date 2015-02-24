@@ -7,5 +7,6 @@
 			<attribute name="javadoc_location" value="http://selenium.googlecode.com/git/docs/api/java/"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Instalki/httpcomponents-client-4.4-bin/httpcomponents-client-4.4/lib/fluent-hc-4.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
