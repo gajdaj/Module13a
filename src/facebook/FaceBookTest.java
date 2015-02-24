@@ -25,7 +25,7 @@ public class FaceBookTest {
 		String facebook = "https://www.facebook.com/";
 		
 		try{
-			System.out.println(Request.Get(facebook).execute().returnResponse().);
+			System.out.println(Request.Get(facebook).execute().returnResponse().getProtocolVersion());
 		}catch(Exception e){
 			System.out.println(e);
 		}
